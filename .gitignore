@@ -1,0 +1,6 @@
+/bin/
+.classpath
+.project
+ScrollingLED.iml
+.settings
+.DS_Store
